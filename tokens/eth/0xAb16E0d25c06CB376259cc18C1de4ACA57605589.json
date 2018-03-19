@@ -1,10 +1,10 @@
 {
   "symbol": "FUCK",
-  "address": "0xAb16E0d25c06CB376259cc18C1de4ACA57605589",
+  "address": "0x65be44c747988fbf606207698c944df4442efe19",
   "decimals": 4,
-  "name": "FinallyUsableCryptoKarma",
+  "name": "Finally Usable Crypto Karma",
   "ens_address": "",
-  "website": "http://fucktoken.io",
+  "website": "http://fucktoken.com",
   "logo": {
     "src": "https://etherscan.io/token/images/fucktoken_28.png",
     "width": 28,
@@ -12,7 +12,7 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "support@fucktoken.io",
+    "email": "contact@fucktoken.com",
     "url": ""
   },
   "social": {
@@ -26,8 +26,8 @@
     "linkedin": "",
     "reddit": "https://www.reddit.com/r/FuckToken",
     "slack": "https://fucktoken.slack.com/join/shared_invite/MjMyNDgzNzc4MDY1LTE1MDM5Nzg2MTctY2FlOWMzMGNiMw",
-    "telegram": "",
+    "telegram": "https://t.me/FuckToken",
     "twitter": "https://twitter.com/FuckToken",
-    "youtube": ""
+    "youtube": "https://www.youtube.com/channel/UCBOHD5QHGGOZp-ztLxD7YSw"
   }
 }
